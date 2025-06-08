@@ -2,7 +2,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
-      <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
+      <img src="file:///C:/Users/deepak%20kumar/Pictures/Screenshots/Screenshot%202025-06-09%20004112.png" alt="Project Banner">
     </a>
   <br />
 
