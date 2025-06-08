@@ -1,7 +1,7 @@
 # Brainwave
 
-![Site Preview](./assets/brainwave-preview.png)
-<!-- Replace the above path with your actual screenshot path or URL -->
+<img src="/assets/brainwave-preview.png" alt="Site Screenshot" />
+
 
 ## Introduction
 
