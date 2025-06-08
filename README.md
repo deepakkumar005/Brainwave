@@ -31,13 +31,7 @@ Brainwave greets users with a visually striking hero section, elegant gradients,
 - 👉 **Responsive:** Fully functional and beautiful on all devices.
 - 👉 **Code Architecture & Reusability:** Modular, reusable React components and clean project structure.
 
-## Code Architecture
 
-- **Component-Based:** Built with reusable, maintainable React components.
-- **Tailwind CSS:** Utility-first CSS for rapid, custom UI development.
-- **Framer Motion:** Smooth, performant animations and micro-interactions.
-- **Responsive Design:** Mobile-first and adaptive layouts.
-- **Easy Customization:** Well-organized codebase for quick updates and feature additions.
 
 ---
 
