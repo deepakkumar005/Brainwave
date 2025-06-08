@@ -1,7 +1,7 @@
 # Brainwave
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
+    <a>
       <img src="file:///C:/Users/deepak%20kumar/Pictures/Screenshots/Screenshot%202025-06-09%20004112.png" alt="Project Banner">
     </a>
   <br />
